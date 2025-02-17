@@ -1,7 +1,22 @@
-<h1 align="center">Hi there, I'm < Tourn Vuthy/> 👋</h1>
+<!-- Wave Hand + Stylish Heading -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  Hey there, I'm < Tourn Vuthy /> 🚀
+</h1>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+account!;I+am+a+Fronted+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=I+am+a+Frontend Developer;Lifelong+Learner" />
+</p>
+
+<!-- Cool GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82956417/203486950-1b1d613a-0b7f-462f-8457-15d2fc61ba3a.gif" width="80%" />
 </p>
 
 ---
@@ -20,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
 </p>
 
-#### ⚙️ **Backend & API**
+#### ⚙️ **Backend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
@@ -39,14 +54,10 @@
 ---
 
 ### 📊 **GitHub Stats & Activity**
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vuthy-Tourn&show_icons=true&theme=tokyonight" height="150" />
 </p>
 
-### 🐍 **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/Vuthy-Tourn/Vuthy-Tourn/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 ---
@@ -76,4 +87,4 @@
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐  
+⭐ **If you like my works, consider giving my repositories a star!** ⭐  
