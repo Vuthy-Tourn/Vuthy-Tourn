@@ -56,8 +56,9 @@
 ### 📊 **GitHub Stats & Activity**
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vuthy-Tourn&show_icons=true&theme=tokyonight" height="150" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vuthy-Tourn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
-
 
 
 ---
@@ -67,12 +68,14 @@
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white&color=2ea44f" alt="Portfolio" />
   </a>
+   &nbsp;&nbsp;
 <!--  <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> -->
   <a href="mailto:vuthytuon168@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+   &nbsp;&nbsp;
   <a href="https://github.com/Vuthy-Tourn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
