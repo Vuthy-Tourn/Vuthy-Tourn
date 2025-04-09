@@ -11,7 +11,7 @@
 
 <!-- Cool GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="450" />
 </p>
 
 <!-- Gradient Divider -->
@@ -23,8 +23,7 @@
 
 ### 🚀 **About Me**
 - 👨‍💻 I’m a passionate **Software Engineer** specializing in **Web Development**  
-- 🔭 I’m currently working on **[Rean English](https://yourproject.com)**  
-- 🌱 I’m learning **React, PostgresSQL and Java**  
+- 🌱 I’m currently learning **TypeScript, PostgresSQL, Spring Boot and Nextjs**  
 - 💡 Fun fact: I love **open-source projects!**  
 
 ---
