@@ -1,24 +1,13 @@
 <!-- Wave Hand + Stylish Heading -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hey there, I'm <span style="color: #4EC9B0;">Tourn Vuthy</span> 🚀
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35"/>
+  Hey there, I'm <span style="color: #4EC9B0; font-weight: 600; text-shadow: 0 0 10px rgba(78, 201, 176, 0.4);">Tourn Vuthy</span> 
+  <span style="font-size: 1.2em;">🚀</span>
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EC9B0&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -51,7 +40,7 @@
 ### 🛠 **Tech Stack**
 #### 🚀 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
 </p>
 
 #### ⚙️ **Backend**
@@ -66,7 +55,7 @@
 
 #### 🛠️ **DevOps & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,intellijidea,datagrip" />
 </p>
 
 
@@ -84,9 +73,9 @@
 
 ### 🌐 **Let's Connect!**
 <p align="left">
-  <a href="https://yourwebsite.com" target="_blank">
+<!--   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white&color=2ea44f" alt="Portfolio" />
-  </a>
+  </a> -->
    &nbsp;&nbsp;
 <!--  <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
