@@ -1,21 +1,32 @@
-name: Generate 3D Contribution Graph
+name: Generate Contribution Graphics
+
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily
   workflow_dispatch: # Allows manual runs
 
 jobs:
-  generate-graph:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
+      # Generate snake animation
       - uses: Platane/snk@v3
         with:
-          github_user_name: Vuthy-Tourn # Your username
-          outputs: |
-            dist/github-contribution-3d.svg
-            dist/github-contribution-3d-dark.svg
-      - uses: actions/upload-artifact@v3
+          github_user_name: Vuthy-Tourn
+          outputs: output/snake.svg
+          
+      # Generate 3D graph (alternative)
+      - uses: yoshi389111/github-profile-3d-contrib@0.7
         with:
-          name: contribution-graph
-          path: dist/
+          USERNAME: Vuthy-Tourn
+          FILENAME: output/profile-3d.svg
+          
+      # Commit the changes
+      - run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add output/
+          git commit -m "Update contribution graphics" || echo "No changes to commit"
+          git push
