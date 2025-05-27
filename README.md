@@ -100,9 +100,9 @@
 
 ⭐ **If you like my works, consider giving my repositories a star!** ⭐  
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vuthy-Tourn/Vuthy-Tourn/output/pacman-contribution-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vuthy-Tourn/Vuthy-Tourn/output/pacman-contribution.svg">
-    <img src="https://raw.githubusercontent.com/Vuthy-Tourn/Vuthy-Tourn/output/pacman-contribution.svg" alt="Pacman eating contributions" width="100%">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vuthy-Tourn/Vuthy-Tourn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vuthy-Tourn/Vuthy-Tourn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vuthy-Tourn/Vuthy-Tourn/output/pacman-contribution-graph.svg">
+</picture>
 </p>
