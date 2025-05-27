@@ -1,0 +1,21 @@
+name: Generate 3D Contribution Graph
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  generate-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Vuthy-Tourn # Your username
+          outputs: |
+            dist/github-contribution-3d.svg
+            dist/github-contribution-3d-dark.svg
+      - uses: actions/upload-artifact@v3
+        with:
+          name: contribution-graph
+          path: dist/
