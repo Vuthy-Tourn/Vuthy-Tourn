@@ -32,7 +32,7 @@
 
 ### 🚀 **About Me**
 - 👨‍💻 I’m a passionate **Software Engineer** specializing in **Web Development**  
-- 🌱 I’m currently learning **TypeScript, PostgresSQL, Spring Boot and Nextjs**  
+- 🌱 I’m currently learning **DevOps**  
 - 💡 Fun fact: I love **open-source projects!**  
 
 ---
@@ -40,12 +40,12 @@
 ### 🛠 **Tech Stack**
 #### 🚀 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma)" />
 </p>
 
 #### ⚙️ **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="[https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java,spring,php)" />
 </p>
 
 #### 🗄️ **Databases & Cloud**
