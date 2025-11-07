@@ -40,12 +40,12 @@
 ### 🛠 **Tech Stack**
 #### 🚀 **Frontend**
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma)" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" />
 </p>
 
 #### ⚙️ **Backend**
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java,spring,php)" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php" />
 </p>
 
 #### 🗄️ **Databases & Cloud**
