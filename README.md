@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
 </p>
 
-#### 🗄️ **Databases & Cloud**
+#### 🗄️ **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
