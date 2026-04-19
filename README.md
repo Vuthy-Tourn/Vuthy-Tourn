@@ -45,17 +45,22 @@
 
 #### ⚙️ **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,php" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
 </p>
 
 #### 🗄️ **Databases & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-#### 🛠️ **DevOps & Tools**
+#### 🚀 **DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,intellijidea,datagrip" />
+  <img src="https://skillicons.dev/icons?i=jenkins,ansible,kubernetes,docker,nginx,cloudflare,gcp,grafana,prometheus" />
+</p>
+
+#### 🛠️ **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,intellijidea,datagrip" />
 </p>
 
 
